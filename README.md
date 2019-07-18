@@ -24,6 +24,8 @@ Docker
   sudo apt-get install docker-ce docker-ce-cli containerd.io
   
 Selenium
+https://www.youtube.com/watch?v=rb5OL-QQPw4
+
 Maven
 
 Jenkins
