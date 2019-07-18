@@ -30,6 +30,7 @@ Puppet
 Ansible
 Kubernetes
 Nagios
+ https://www.youtube.com/watch?v=AkC7dE2AbgY&t=36s
 
 -----------------------------------
 
