@@ -25,10 +25,16 @@ Docker
   
 Selenium
 Maven
+
 Jenkins
+https://www.youtube.com/watch?v=8W6gdCwxIsI
 Puppet
+https://www.youtube.com/watch?v=HFpqosHD7aE
 Ansible
+ https://www.youtube.com/watch?v=2jBR7fYbfro
 Kubernetes
+  https://www.youtube.com/watch?v=4ZwmiLGBIR0
+  
 Nagios
  https://www.youtube.com/watch?v=AkC7dE2AbgY&t=36s
 
