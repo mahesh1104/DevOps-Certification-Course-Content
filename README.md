@@ -57,3 +57,23 @@ Puppet
 Ansible
 Kubernetes
 Nagios
+
+htpasswd -c -b /etc/nagios/passwd admin admin
+
+nuagebec/ubuntu
+
+Adding Nagios host
+
+1.Install NRPE server plugin on host
+    sudo apt-get update
+    sudo apt-get install nagios-nrpe-server nagios-plugins
+
+54.90.191.118
+ 
+2.Configure NRPE
+     Update Nagio server address
+  vi /etc/nagios/nrpe.cfg
+  server_address=
+
+3. 
+
