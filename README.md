@@ -5,6 +5,9 @@ Infrastructure Setup
 EC2 Walkthrough
 Installation of Devops Tools on cloud
 Git
+https://www.youtube.com/watch?v=eEhcPWdAb9Q
+https://www.youtube.com/watch?v=rb5OL-QQPw4
+
 Docker
    sudo apt-get remove docker docker-engine docker.io containerd runc
    sudo apt-get update
